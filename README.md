@@ -1,6 +1,6 @@
 # E-commerce Backend Api
 
-Este proyecto es una aplicación backend desarrollada para Coderhouse. Incluye autenticación de usuarios con JWT y Passport.js, junto con endpoints de API para gestionar productos, carritos de compra y finalizar el proceso de compra con generación de tickets.
+Este proyecto es una aplicación backend robusta diseñada para gestionar las operaciones centrales de una tienda virtual. Incluye autenticación de usuarios con JWT y Passport.js, junto con endpoints de API estructurados para gestionar productos, carritos de compra y finalizar el proceso de compra con generación automática de tickets.
 
 ### Características
 
@@ -35,8 +35,8 @@ Para configurar el proyecto localmente, sigue estos pasos:
 1.  **Clonar el repositorio**:
 
     ```bash
-    git clone [https://github.com/Sebastian0021/backend-2-coderhouse.git](https://github.com/Sebastian0021/backend-2-coderhouse.git)
-    cd backend-2-coderhouse
+    git clone [https://github.com/Sebastian0021/e-commerce-backend-api.git](https://github.com/Sebastian0021/e-commerce-backend-api.git)
+    cd e-commerce-backend-api
     ```
 
 2.  **Instalar dependencias**:
@@ -132,7 +132,7 @@ La API está estructurada con las siguientes rutas:
 ### Estructura del Proyecto
 
 ```
-backend-2-coderhouse/
+e-commerce-backend-api/
 ├── .gitignore
 ├── README.md
 ├── package.json
