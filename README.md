@@ -1,4 +1,4 @@
-# backend-2-coderhouse
+# E-commerce Backend Api
 
 Este proyecto es una aplicación backend desarrollada para Coderhouse. Incluye autenticación de usuarios con JWT y Passport.js, junto con endpoints de API para gestionar productos, carritos de compra y finalizar el proceso de compra con generación de tickets.
 
